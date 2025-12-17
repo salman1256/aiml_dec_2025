@@ -1,0 +1,4 @@
+[17-12-2025 11:20: FileHandling in python r:for read, w: for write]
+[17-12-2025 12:04:  we have done update , to update we use 'a']
+[17-12-2025 12:05:  Next topic is Custom Exception] 
+[17-12-2025 12:07:   Library in python numpy,pandas, scikit learn]
