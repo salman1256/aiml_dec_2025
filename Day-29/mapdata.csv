@@ -1,0 +1,11 @@
+City,State,Country,SalesAmount,StoreCount
+New Delhi,Delhi,India,50000,5
+Mumbai,Maharashtra,India,75000,8
+Bangalore,Karnataka,India,62000,6
+Chennai,Tamil Nadu,India,58000,5
+Hyderabad,Telangana,India,60000,6
+New York,NY,USA,90000,10
+Los Angeles,CA,USA,88000,9
+Chicago,IL,USA,70000,7
+London,,UK,85000,7
+Manchester,,UK,65000,5
