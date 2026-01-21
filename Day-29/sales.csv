@@ -1,0 +1,7 @@
+OrderID,Country,Brand,Sales,ManagerEmail
+1,India,Contoso,50000,india.manager@company.com
+2,India,Fabrikam,30000,india.manager@company.com
+3,USA,Contoso,70000,usa.manager@company.com
+4,USA,Proseware,40000,usa.manager@company.com
+5,UK,Contoso,35000,uk.manager@company.com
+6,UK,Fabrikam,25000,uk.manager@company.com
